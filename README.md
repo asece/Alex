@@ -1,3 +1,3 @@
 # C++ Projects 
 
-Various training exercises uploaded from my computer.
+Various C++ training exercises.
