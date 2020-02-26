@@ -1,3 +1,4 @@
+//  Last sanity check: 2020-02-26
 //  main.cpp
 //  Exer
 //

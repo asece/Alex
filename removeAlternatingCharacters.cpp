@@ -1,3 +1,4 @@
+//  Last sanity check: 2020-02-26
 int alternatingCharacters(string s) 
 {
     int del = 0, i = 0;
