@@ -1,4 +1,3 @@
-//
 //  abstract classes and pure virtual.cpp
 //  Cpp
 //
