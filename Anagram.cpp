@@ -1,3 +1,5 @@
+//  Last sanity check: 2020-02-26
+
 int makeAnagram(string a, string b) {
 
     auto count = 0;
