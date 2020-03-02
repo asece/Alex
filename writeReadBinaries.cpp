@@ -1,4 +1,4 @@
-//  Last sanity check: 2020-02-28
+//  Last sanity check: 2020-03-02
 //
 //  main.cpp
 //  Write and read binary files
