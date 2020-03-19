@@ -1,4 +1,4 @@
-//  Last sanity check: 2020-03-18
+//  Last sanity check: 2020-03-19
 int alternatingCharacters(string s) 
 {
     int del = 0, i = 0;
