@@ -5,7 +5,6 @@
 //
 //  Created by Alex Seceleanu on 4/7/18.
 //  Copyright © 2018 Alex Seceleanu. All rights reserved.
-//  Last sanity check: 26.02.2020
 
 #include <stdio.h>
 #include<iostream>
