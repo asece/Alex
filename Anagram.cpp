@@ -1,4 +1,4 @@
-//  Last sanity check: 2020-04-11
+//  Last sanity check: 2020-04-12
 
 int makeAnagram(string a, string b) {
 
