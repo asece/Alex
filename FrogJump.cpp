@@ -1,4 +1,4 @@
-//  Last sanity check: 2020-04-23
+//  Last sanity check: 2020-04-25
 int solution(int X, int Y, int D) 
 {
     int jumps = (Y-X) / D;
