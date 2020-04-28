@@ -1,4 +1,4 @@
-//  Last sanity check: 2020-04-26
+//  Last sanity check: 2020-04-28
 //  abstract classes and pure virtual.cpp
 //  Cpp
 //
