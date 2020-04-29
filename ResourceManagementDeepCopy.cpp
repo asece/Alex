@@ -1,4 +1,4 @@
-//  Last sanity check: 2020-04-28
+//  Last sanity check: 2020-04-29
 // Resource Management
 // persons.push_back(Person("Alex")) trebuie facut doar daca exista copy contructor si operator definite!
 // altfel se face copie shallow si programul nu merge! 
