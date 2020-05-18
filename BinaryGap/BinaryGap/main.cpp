@@ -1,4 +1,4 @@
-//  Last sanity check: 2020-04-29
+//  Last sanity check: 2020-05-18
 //
 //  main.cpp
 //  BinaryGap
